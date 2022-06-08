@@ -1,6 +1,5 @@
 from fast_bitrix24 import Bitrix
 import requests
-import datetime
 
 # данные для взаимодействия с api сервисов
 course = 'https://www.cbr-xml-daily.ru/daily_json.js'
